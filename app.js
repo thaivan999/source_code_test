@@ -1,5 +1,5 @@
 
-        var swiperz247b5f63z2a32z4f00zb717z718c8b064aa4 = new Swiper(".swiper-247b5f63-2a32-4f00-b717-718c8b064aa4", {
+        var swiperzb79278f4z9d2fz407azbadbz6c47f1dcc3fd = new Swiper(".swiper-b79278f4-9d2f-407a-badb-6c47f1dcc3fd", {
           effect: "fade",
           slidesPerView: 1,
           loop: true,
@@ -26,7 +26,7 @@
           },
         });
       
-        var swiperzea4be962z2a4bz4b2fz8bfez3ade60dcd7ad = new Swiper(".swiper-ea4be962-2a4b-4b2f-8bfe-3ade60dcd7ad", {
+        var swiperza73d5611z59dez460azbbfcz8cd22f1f12da = new Swiper(".swiper-a73d5611-59de-460a-bbfc-8cd22f1f12da", {
           effect: "slide",
           slidesPerView: 2,
           loop: true,
@@ -47,9 +47,5 @@
             draggable: true
           },
           
-          autoplay: {
-            delay: 3000,
-            disableOnInteraction: false,
-          },
         });
       
