@@ -1,6 +1,5 @@
 
-
-const header = document.querySelector('header');
+    const header = document.querySelector('header');
 let oldScroll = 0;
 window.addEventListener('scroll', () => {
   const scrollTop = window.scrollY; 
@@ -16,4 +15,5 @@ window.addEventListener('scroll', () => {
   }
   oldScroll = scrollTop; 
 });
+
     
